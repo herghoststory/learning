@@ -5,3 +5,6 @@ Now I'm making a change.
 Now somebody else is making a change.
 
 Now I'm making another change!
+
+Somebody else is editing again.
+
