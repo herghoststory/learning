@@ -8,3 +8,4 @@ Now I'm making another change!
 
 Somebody else is editing again.
 
+Right now I'm in the middle of working on this file.
